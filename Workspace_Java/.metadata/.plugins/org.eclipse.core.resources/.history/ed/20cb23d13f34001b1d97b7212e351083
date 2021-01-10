@@ -1,0 +1,22 @@
+package com.test01;
+
+import java.util.Arrays;
+
+public class MTest02 {
+	
+	public static void main(String[]args) {
+		//방법 1.
+		
+		int [][]a = new int[3][2];
+		a[0][0] = 1;
+		a[0][1] = 2;
+		a[1][0] = 3;
+		a[1][1] = 4;
+		a[2][0] = 5;
+		a[2][1] = 6;
+		
+		System.out.println(Arrays.toString(a));
+		System.out.println(Arrays.deepToString(a));
+	}
+
+}

@@ -1,0 +1,23 @@
+package com.test01;
+
+public class MTest01 {
+
+	//1. DRIVER 연결
+	
+	
+	//2. 계정 연결
+	
+	
+	//3. QUERY 준비
+	
+	
+	//4. QUERY 실행 및 결과 리턴
+	
+	
+	//5. DB 종료
+
+
+	
+	}
+
+

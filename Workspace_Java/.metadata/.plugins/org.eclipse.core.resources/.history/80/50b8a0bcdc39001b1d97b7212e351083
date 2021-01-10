@@ -1,0 +1,17 @@
+package com.test05;
+
+public class SamsongTV implements TV {
+
+	@Override
+	public int volumeUp() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int volumeDown() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

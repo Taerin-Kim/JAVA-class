@@ -1,0 +1,23 @@
+package com.test01;
+
+import java.util.Scanner;
+
+public class MTest03 {
+
+	
+	//DEPTNO를 입력받아서, 부서테이블의 해당 부서 모든 정보 출력
+	//SELECT DEPTNO DNAME LOC
+	//FROM DEPT
+	//WHERE DEPTNO = ??
+	public static void main(String[] args) {
+		selectOne();
+
+	}
+	public static void selectOne() {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("부서번호를 입력하세요 : ");
+		int deptno = sc.nextInt();
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.test05;
+
+public class SamsongTV implements TV {
+
+	private int volume;
+	
+	@Override
+	public int volumeUp() {
+		
+		return 0;
+	}
+
+	@Override
+	public int volumeDown() {
+	
+		return 0;
+	}
+
+}

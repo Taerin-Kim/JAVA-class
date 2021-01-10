@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Java19_URI/url.txt&apos; to &apos;uri.txt&apos;" description="Rename resource &apos;url.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="url.txt" name="uri.txt" stamp="1608085302426" updateReferences="true"/>
+</session>

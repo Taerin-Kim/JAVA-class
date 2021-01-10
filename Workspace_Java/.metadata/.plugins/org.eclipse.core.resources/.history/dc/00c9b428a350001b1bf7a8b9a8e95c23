@@ -1,0 +1,15 @@
+package com.test01;
+
+public class MTest04 {
+
+	public static void main(String[] args) {
+		insert();
+
+	}
+	
+	public static void insert() {
+		
+		
+	}
+
+}

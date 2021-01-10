@@ -1,0 +1,12 @@
+package com.dto;
+
+
+//Date Transfer Object :  값 전달 객체
+//Value Object
+public class MYTestDto {
+
+	private int mno;
+	private String mname;
+	private String nickname;
+	
+}
